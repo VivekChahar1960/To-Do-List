@@ -100,3 +100,11 @@ h1 {
     width: 250px;
   }
 }
+@media (max-width:400px){
+  .TodoWrapper{
+    padding: 0.7rem;
+  }
+  .todo-input{
+    width: 200px;
+  }
+}
